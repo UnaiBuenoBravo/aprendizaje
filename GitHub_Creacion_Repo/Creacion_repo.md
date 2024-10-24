@@ -11,4 +11,4 @@
     + __Add Readme__: SIEMPRE, vamos a añadir el archivo readme, nos permite hacer la sincronización de nuestro repositorio de forma más sencilla y eficaz.
     ![Foto "Personalizacion_repo"](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/GitHub_Creacion_Repo/Personalizacion_repo.png "Personalizacion_repo")
     + Si "escrolleamos" un poquito para abajo veremos la opción que nos va a permitir crear el repositorio.
-    ![Foto "create_repo"](link "create_repo")
+    ![Foto "create_repo"](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/GitHub_Creacion_Repo/create_repo.png "create_repo")
