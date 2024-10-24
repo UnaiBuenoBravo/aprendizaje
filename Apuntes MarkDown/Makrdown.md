@@ -37,7 +37,7 @@ Lorem Ipsum
 [Página web de Jesuites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional")
 
 ### Como poner una imagen
-![Foto_Pocoyo](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/pocoyo.jpeg "Foto_Pocoyo")
+![Foto_Pocoyo](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/Apuntes%20MarkDown/pocoyo.jpeg "Foto_Pocoyo")
 
 |Titulo 1 | Titulo 2 | Titulo 3 |
 |----------| :----------: | ----------:|
