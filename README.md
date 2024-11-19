@@ -38,12 +38,12 @@ Lorem Ipsum
 ...
 
 ### InsertarEnlace
-[TextoClicable](https://unaibuenobravo.github.io/aprendizaje/ "Vuelta a la página")
+[Vuelta a la página](https://unaibuenobravo.github.io/aprendizaje/ "Vuelta a la página")
 
 [Página web de Jesuites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional")
 
 ### Como poner una imagen
-![Foto_Pocoyo](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/img/pocoyo.jpeg "Foto_Pocoyo")
+![Foto_Pocoyo](img/pocoyo.jpeg "Foto_Pocoyo")
 
 |Titulo 1 | Titulo 2 | Titulo 3 |
 |----------| :----------: | ----------:|
@@ -63,10 +63,10 @@ Lorem Ipsum
     + __Público__: Esta opción nos permite hacerlo publico o privado. La opción publico nos permite que sea accesible a todo mundo, el privado en cambio nunca lo va a hacer visble a los demás. 
     + __Add Readme__: SIEMPRE, vamos a añadir el archivo readme, nos permite hacer la sincronización de nuestro repositorio de forma más sencilla y eficaz.
 
-    ![Foto "Personalizacion_repo"](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/img/Personalizacion_repo.png "Personalizacion_repo")
+    ![Foto "Personalizacion_repo"](img/Personalizacion_repo.png"Personalizacion_repo")
     + Si "escrolleamos" un poquito para abajo veremos la opción que nos va a permitir crear el repositorio.
     
-    ![Foto "create_repo"](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/img/create_repo.png "create_repo")
+    ![Foto "create_repo"](img/create_repo.png "create_repo")
 
     # Comandos principales de GitHub
 
