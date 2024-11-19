@@ -4,7 +4,7 @@ Unai Bueno Bravo
 
 ASIX1
 
-# aprendizaje
+# Aprendizaje
 
 # Aprendizaje_markdown
 ## Segundo nivel de encabezado
