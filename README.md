@@ -68,7 +68,7 @@ Lorem Ipsum
     
     ![Foto "create_repo"](img/create_repo.png "create_repo")
 
-    # Comandos principales de GitHub
+# Comandos principales de GitHub
 
 - git clone url => clonar repositorio
 - git init => Inicializa/reinicia el repositorio
