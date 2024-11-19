@@ -35,16 +35,18 @@ Lorem Ipsum
 **Como Mostrar cogido en un repositorio**
 ### InsertarEnlace
 Este seria el formato, pero quedaria de la siguiente manera:
-[Vuelta a la página] (https://unaibuenobravo.github.io/aprendizaje/ "Vuelta a la página")
 
 ![Foto_estuctura_photo](img/backtomainpage.png "Foto_photo")
+
+[Vuelta a la página](https://unaibuenobravo.github.io/aprendizaje/ "Vuelta a la página")
 
 [Página web de Jesuites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional")
 
 ### Como poner una imagen
 Este seria el formato, pero quedaria de la siguiente manera: (_COMPROBAR LOS ESPACIOS_)
 
-! [ Foto_Pocoyo ] (img/pocoyo.jpeg "Foto_Pocoyo") 
+! [ Foto_Pocoyo ] (img/pocoyo.jpeg "Foto_Pocoyo")
+
 ![Foto_estuctura_photo](img/formato_foto.png "Foto_photo")
  
 ![Foto_Pocoyo](img/pocoyo.jpeg "Foto_Pocoyo")
