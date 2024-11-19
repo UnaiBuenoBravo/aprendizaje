@@ -63,7 +63,7 @@ Lorem Ipsum
     + __Público__: Esta opción nos permite hacerlo publico o privado. La opción publico nos permite que sea accesible a todo mundo, el privado en cambio nunca lo va a hacer visble a los demás. 
     + __Add Readme__: SIEMPRE, vamos a añadir el archivo readme, nos permite hacer la sincronización de nuestro repositorio de forma más sencilla y eficaz.
 
-    ![Foto "Personalizacion_repo"](img/Personalizacion_repo.png"Personalizacion_repo")
+    ![Foto "Personalizacion_repo"](img/Personalizacion_repo.png "Personalizacion_repo")
     + Si "escrolleamos" un poquito para abajo veremos la opción que nos va a permitir crear el repositorio.
     
     ![Foto "create_repo"](img/create_repo.png "create_repo")
