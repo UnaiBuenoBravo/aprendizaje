@@ -33,10 +33,6 @@ lorem ipsum
 Lorem Ipsum
 
 **Como Mostrar cogido en un repositorio**
-... html 5
-
-...
-
 ### InsertarEnlace
 Este seria el formato, pero quedaria de la siguiente manera:
 [Vuelta a la página] (https://unaibuenobravo.github.io/aprendizaje/ "Vuelta a la página")
@@ -47,6 +43,7 @@ Este seria el formato, pero quedaria de la siguiente manera:
 
 ### Como poner una imagen
 Este seria el formato, pero quedaria de la siguiente manera: (_COMPROBAR LOS ESPACIOS_)
+
 ! [ Foto_Pocoyo ] (img/pocoyo.jpeg "Foto_Pocoyo") 
 ![Foto_estuctura_photo](img/formato_foto.png "Foto_photo")
  
