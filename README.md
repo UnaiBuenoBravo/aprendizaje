@@ -38,7 +38,7 @@ Lorem Ipsum
 ...
 
 ### InsertarEnlace
-[TextoClicable](URL "Titulo opcional")
+[TextoClicable](https://unaibuenobravo.github.io/aprendizaje/ "Vuelta a la página")
 
 [Página web de Jesuites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional")
 
@@ -55,13 +55,14 @@ Lorem Ipsum
 
 1. Desde la página principal de GitHub, hacemos un __click__ *New* 
 
-![Foto "New_repo"](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/img/New_repo.png "New_repo")
+![Foto "New_repo"](img/New_repo.png "New_repo")
 
 2. Personalización del Repositorio
     + __Nombre Repositorio__: Pondremos el nombre que deseemos al repositorio.
     + __Descripción__: Podemos agregar una descripción, si lo deseamos.
     + __Público__: Esta opción nos permite hacerlo publico o privado. La opción publico nos permite que sea accesible a todo mundo, el privado en cambio nunca lo va a hacer visble a los demás. 
     + __Add Readme__: SIEMPRE, vamos a añadir el archivo readme, nos permite hacer la sincronización de nuestro repositorio de forma más sencilla y eficaz.
+
     ![Foto "Personalizacion_repo"](https://github.com/UnaiBuenoBravo/aprendizaje/blob/main/img/Personalizacion_repo.png "Personalizacion_repo")
     + Si "escrolleamos" un poquito para abajo veremos la opción que nos va a permitir crear el repositorio.
     
