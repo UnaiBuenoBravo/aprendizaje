@@ -1,6 +1,6 @@
 # Comandos principales de GitHub
 
-- git clone url => cloanr repositorio
+- git clone url => clonar repositorio
 - git init => Inicializa/reinicia el repositorio
 - git branch => para ver donde esta la raiz
 - git branch -M main => ponemos la raiz en main
